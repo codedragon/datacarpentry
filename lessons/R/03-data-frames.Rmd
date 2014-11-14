@@ -110,6 +110,7 @@ functions to get a sense of the content/structure of the data.
 * Content:
     * `head()` - shows the first 6 rows
     * `tail()` - shows the last 6 rows
+    * `summary()` -  shows the mean, 1st and 3rd quartiles and min and max for numeric data
 * Names:
     * `names()` - returns the column names (synonym of `colnames()` for `data.frame`
 	objects)
